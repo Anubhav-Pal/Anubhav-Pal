@@ -1,5 +1,5 @@
 <!--👉 Hey ! you liked my profile ,feel free to give it a star 🌟 -->
-![MasterHead](https://github.com/Vaani-pathariya/Vaani-pathariya/blob/9901262e99444780dbb46a788b17afe2d564f9a2/Blue%20&%20Black%20Modern%20Technology%20LinkedIn%20Banner%20(1).png)
+![MasterHead](https://www.linkedin.com/in/anubhavpal/overlay/background-image/)
 <h1 align="center">Hello <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Anubhav Pal</h1>
 <p align="center">
     <em style="position: relative; bottom: 7px;"> Full Stack web developer and UI/UX Designer</em>
