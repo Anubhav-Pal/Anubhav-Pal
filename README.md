@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Anubhav Pal</h1>
 <h3 align="center">MERN Developer and UI/UX Designer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=anubhav-pal&label=Profile%20views&color=0e75b6&style=flat" alt="anubhav-pal" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anubhav-pal" alt="anubhav-pal" /></a> </p>
-
 - 🔭 I’m currently working on **numerous web projects.**
 
 - 🌱 I’m currently learning **Backend technologies.**
@@ -13,13 +9,13 @@
 
 - 💬 Ask me about **React, Frontend , UI/UX**
 
-- 📫 How to reach me **anubhavpal15june@gmail.com anubhavpal.excl@gmail.com**
+- 📫 How to reach me **anubhavpal15june@gmail.com AND anubhavpal.excl@gmail.com**
 
 - ⚡ Fun fact **I am a very creative person.😁**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/anubhav pal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anubhav pal" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/anubhavpal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anubhavpal" height="30" width="40" /></a>
 <a href="https://www.behance.net/anubhav pal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="anubhav pal" height="30" width="40" /></a>
 </p>
 
