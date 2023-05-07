@@ -1,17 +1,16 @@
-<h1 align="center">Anubhav Pal</h1> <h3 align="center">MERN Developer and UI/UX Designer</h3>
+<h1 align="center">Anubhav Pal</h1>
+<h3 align="center">MERN Developer and UI/UX Designer</h3>
 
-- 🔭 I’m currently working on **numerous web projects.**
+-  I’m currently working on numerous web projects.
 
-- 🌱 I’m currently learning **Backend technologies.**
+-  I’m currently learning Backend technologies.
 
-- 🤝 I’m looking for help with **Backend.**
+-  I’m looking for help with Backend.
 
-- 💬 Ask me about **React, Frontend, UI/UX**
+-  Ask me about React, Frontend, UI/UX
 
-- 📫 How to reach me **anubhavpal15june@gmail.com AND anubhavpal.excl@gmail.com**
-- 
-
-## 🌐 Socials:
+-  How to reach me anubhavpal15june@gmail.com and anubhavpal.excl@gmail.com
+##  Connect at:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/anubhavpal) 
 
 # 💻 Tech Stack:
