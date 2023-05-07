@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Anubhav Pal</h1>
+<h1 align="center">Anubhav Pal</h1>
 <h3 align="center">MERN Developer and UI/UX Designer</h3>
 
 - 🔭 I’m currently working on **numerous web projects.**
