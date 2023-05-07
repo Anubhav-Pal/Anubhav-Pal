@@ -10,8 +10,7 @@
 - 💬 Ask me about **React, Frontend , UI/UX**
 
 - 📫 How to reach me **anubhavpal15june@gmail.com AND anubhavpal.excl@gmail.com**
-
-- ⚡ Fun fact **I am a very creative person.😁**
+- 
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/anubhavpal) 
