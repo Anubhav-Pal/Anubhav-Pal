@@ -5,9 +5,9 @@
 
 - 🌱 I’m currently learning **Backend technologies.**
 
-- 🤝 I’m looking for help with **Backend**
+- 🤝 I’m looking for help with **Backend.**
 
-- 💬 Ask me about **React, Frontend , UI/UX**
+- 💬 Ask me about **React, Frontend, UI/UX**
 
 - 📫 How to reach me **anubhavpal15june@gmail.com AND anubhavpal.excl@gmail.com**
 - 
