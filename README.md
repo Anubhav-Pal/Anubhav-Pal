@@ -7,7 +7,7 @@
 
 -  I’m looking for help with Backend.
 
--  Ask me about React, Frontend, UI/UX
+-  Ask me about React,NEXT.js, Frontend, UI/UX
 
 -  How to reach me anubhavpal15june@gmail.com and anubhavpal.excl@gmail.com
 ### Connect at:
