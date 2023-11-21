@@ -1,5 +1,4 @@
-<h1 align="center">Anubhav Pal</h1>
-<h3 align="center">MERN Developer and UI/UX Designer</h3>
+![Alt Text](Fueler%20Twitter%20header%20-%2013.png)
 
 -  I’m currently working on numerous web projects.
 
@@ -9,7 +8,7 @@
 
 -  Ask me about React, NEXT.js, Frontend, UI/UX
 
--  How to reach me anubhavpal15june@gmail.com and anubhavpal.excl@gmail.com
+-  How to reach me anubhavpal.excl@gmail.com
 ### Connect at:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/anubhavpal) 
 
