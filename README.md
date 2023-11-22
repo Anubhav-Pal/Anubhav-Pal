@@ -14,6 +14,7 @@ Hey there 👋
 ### Connect at:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/anubhavpal) 
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/https://twitter.com/AnubhavPal__) 
+[![Leetcode](https://img.shields.io/badge/Leetcode-%231DA1F2.svg?logo=leetcode&logoColor=red)](https://leetcode.com/anubhavpalcp/) 
 
 
 ### Tech Stack:
