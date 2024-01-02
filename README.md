@@ -4,8 +4,6 @@ Hey there 👋
 
 # I’m Anubhav,
 
--  currently working on BlueBricks web project.
-
 -  I’m currently learning Backend technologies.
 
 -  Ask me about React, NEXT.js, Frontend, Backend.
