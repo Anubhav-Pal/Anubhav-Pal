@@ -20,6 +20,7 @@
 
 <h2 align="left">HACKATHON LOG:</h2>
 - Samsung Solve for Tomorrow (Season 2) Top 30 winner<br>
+- SIH 2023 Finalist<br>
 - Trident Hacks'23 Nationals 2nd runner up<br>
 - RedBrick Hacks 2023 <br>
 - Google Solution Challenge <br>
