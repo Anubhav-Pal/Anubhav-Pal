@@ -1,10 +1,7 @@
 ![Alt Text](Fueler%20Twitter%20header%20-%2013.png)
+## If you see fewer contributions here, it's because I'm busy building magic at my current organization 😉✨💻🚀
 
-Hey there 👋
-
-# I’m Anubhav,
-
--  I’m currently learning Backend technologies.
+-  currently learning Backend technologies.
 
 -  Ask me about React, NEXT.js, Frontend, Backend.
 
