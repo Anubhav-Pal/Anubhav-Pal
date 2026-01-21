@@ -2,11 +2,6 @@
 ## If you see fewer contributions here, it's because I'm busy building magic at my current organization 😉✨💻🚀
 ![81689FA2-DBFC-44C9-BEC4-42F679A86B9B](https://github.com/user-attachments/assets/567caf01-5677-4427-856a-d424adc26f18)
 
-
--  currently learning Backend technologies.
-
--  Ask me about React, NEXT.js, Frontend, Backend.
-
 -  How to reach me anubhavpal.excl@gmail.com.
 ### Connect at:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/anubhavpal) 
