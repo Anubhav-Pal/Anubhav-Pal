@@ -1,5 +1,7 @@
 ![Alt Text](Fueler%20Twitter%20header%20-%2013.png)
 ## If you see fewer contributions here, it's because I'm busy building magic at my current organization 😉✨💻🚀
+![81689FA2-DBFC-44C9-BEC4-42F679A86B9B](https://github.com/user-attachments/assets/567caf01-5677-4427-856a-d424adc26f18)
+
 
 -  currently learning Backend technologies.
 
