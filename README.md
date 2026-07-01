@@ -1,8 +1,10 @@
 ## If you see fewer commits here, it's because I'm busy building magic at my current organization 😉✨💻🚀 ⬇️ 
 ### https://github.com/anubhav-pal-eternal
-![81689FA2-DBFC-44C9-BEC4-42F679A86B9B](https://github.com/user-attachments/assets/567caf01-5677-4427-856a-d424adc26f18)
+<img alt="Screenshot 2026-07-01 at 7 34 33 PM" src="https://github.com/user-attachments/assets/1c63f2da-0ab0-4159-b504-72679acf6ade" />
+
 
 How to reach me anubhavpal.excl@gmail.com.
+
 ### Connect at: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/anubhavpal)  [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/https://twitter.com/AnubhavPal__)  [![Leetcode](https://img.shields.io/badge/Leetcode-%231DA1F2.svg?logo=leetcode&logoColor=red)](https://leetcode.com/anubhavpalcp/) 
 
 
